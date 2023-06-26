@@ -1,15 +1,15 @@
 ;; **** Change all colors given in below places and remove this line ****
 -- ftd.color base-:
-light: #faebd7
-dark: #240002
+light: #f5f5f5
+dark: #20253f
 
 -- ftd.color step-1-:
-light: #e3bc81
-dark: #550605
+light: #f5f5f5
+dark: #232946
 
 -- ftd.color step-2-:
-light: #faad7b
-dark: #3e0e11
+light: #303846
+dark: #303846
 
 -- ftd.color overlay-:
 light: rgba(0, 0, 0, 0.8)
@@ -35,11 +35,11 @@ light: #D9D9D9
 dark: #3e0306
 
 -- ftd.color text-:
-light: #707070
-dark: #D9D9D9
+light: #232946
+dark: #eebbc3
 
 -- ftd.color text-strong-:
-light: #333333
+light: #232946
 dark: #FFFFFF
 
 -- ftd.color shadow-:
@@ -51,8 +51,8 @@ light: #393939
 dark: #393939
 
 -- ftd.color cta-primary-base-:
-light: #a53006
-dark: #a53006
+light: #232946
+dark: #657bec
 
 -- ftd.color cta-primary-hover-:
 light: #8c2702
@@ -63,8 +63,8 @@ light: #611c03
 dark: #611c03
 
 -- ftd.color cta-primary-disabled-:
-light: #faad7b
-dark: #faad7b
+light: #afb8e6
+dark: #afb8e6
 
 -- ftd.color cta-primary-focused-:
 light: #611c03
@@ -79,8 +79,8 @@ light: #feffff
 dark: #feffff
 
 -- ftd.color cta-primary-text-disabled-:
-light: #65b693
-dark: #65b693
+light: #6b6d75
+dark: #6b6d75
 
 -- ftd.color cta-primary-border-disabled-:
 light: #65b693
@@ -239,8 +239,8 @@ text-disabled: $cta-danger-text-disabled-
 border-disabled: $cta-danger-border-disabled-
 
 -- ftd.color accent-primary-:
-light: #a53006
-dark: #a53006
+light: #232946
+dark: #657bec
 
 -- ftd.color accent-secondary-:
 light: #EF8435
