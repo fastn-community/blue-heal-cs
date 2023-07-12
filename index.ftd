@@ -19,7 +19,7 @@ name: default-colors
 -- cd.package: THEME
 name: `blue-heal-cs`
 logo: $assets.files.static.fastn-logo.svg
-subtitle: Adding warmth and energy to your designs with the `blue-heal-cs` Color Scheme
+subtitle: blue-heal-cs: color scheme
 colors: $colors-data
 types: $typo.types
 
