@@ -242,7 +242,7 @@ lang: ftd
 Now modify `FASTN/ds.ftd` module which is already added inside your `fastn`
 package.
 
-Import `blog-template-cs` dependency into `FASTN/ds.ftd`
+Import `blue-heal-cs` dependency into `FASTN/ds.ftd`
 
 -- cb.code:
 lang: ftd
