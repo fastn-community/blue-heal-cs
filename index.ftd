@@ -22,8 +22,8 @@ logo: $assets.files.static.fastn-logo.svg
 subtitle: blue-heal-cs: color scheme
 colors: $colors-data
 types: $typo.types
-document-title: Blue Heal CS:  fastn color scheme package
-document-description: Blue Heal CS:  fastn color scheme package
+document-title: Yankees Blue-themed Colour Scheme for Web Design | fastn Blue Heal CS
+document-description: Discover the Blue Heal Colour Scheme by fastn, featuring beautiful shades of Yankees Blue for both dark and light modes.
 document-image: https://fastn.com/-/fastn.com/images/featured/cs/blue-heal-cs-dark.png
 
 -- cp.components-pallete:
